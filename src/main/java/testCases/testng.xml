@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="testCases.Tc1_city"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test2">
+    <classes>
+      <class name="testCases.Tc2_clicksports"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test3">
+    <classes>
+      <class name="testCases.Tc3_movies"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
